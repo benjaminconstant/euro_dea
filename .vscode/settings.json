@@ -1,0 +1,7 @@
+{
+    "python.formatting.autopep8Args": [
+        "--ignore",
+        "E501"
+    ],
+    "python.pythonPath": "/home/gigi/.virtualenvs/euro_dea/bin/python"
+}

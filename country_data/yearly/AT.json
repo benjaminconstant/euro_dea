@@ -1,0 +1,551 @@
+[
+    {
+        "time": "1960",
+        "deaths": 42063.0,
+        "deaths_per_million": 5983.03,
+        "deaths_per_million_MA_5": "null",
+        "deaths_MA_5": "null",
+        "deaths_per_million_MA_10": "null",
+        "deaths_MA_10": "null"
+    },
+    {
+        "time": "1961",
+        "deaths": 36380.0,
+        "deaths_per_million": 5149.55,
+        "deaths_per_million_MA_5": "null",
+        "deaths_MA_5": "null",
+        "deaths_per_million_MA_10": "null",
+        "deaths_MA_10": "null"
+    },
+    {
+        "time": "1962",
+        "deaths": 41072.0,
+        "deaths_per_million": 5778.36,
+        "deaths_per_million_MA_5": "null",
+        "deaths_MA_5": "null",
+        "deaths_per_million_MA_10": "null",
+        "deaths_MA_10": "null"
+    },
+    {
+        "time": "1963",
+        "deaths": 43137.0,
+        "deaths_per_million": 6031.61,
+        "deaths_per_million_MA_5": "null",
+        "deaths_MA_5": "null",
+        "deaths_per_million_MA_10": "null",
+        "deaths_MA_10": "null"
+    },
+    {
+        "time": "1964",
+        "deaths": 38457.0,
+        "deaths_per_million": 5341.4,
+        "deaths_per_million_MA_5": 5656.79,
+        "deaths_MA_5": 40221.8,
+        "deaths_per_million_MA_10": "null",
+        "deaths_MA_10": "null"
+    },
+    {
+        "time": "1965",
+        "deaths": 41705.0,
+        "deaths_per_million": 5754.16,
+        "deaths_per_million_MA_5": 5611.02,
+        "deaths_MA_5": 40150.2,
+        "deaths_per_million_MA_10": "null",
+        "deaths_MA_10": "null"
+    },
+    {
+        "time": "1966",
+        "deaths": 39562.0,
+        "deaths_per_million": 5423.93,
+        "deaths_per_million_MA_5": 5665.89,
+        "deaths_MA_5": 40786.6,
+        "deaths_per_million_MA_10": "null",
+        "deaths_MA_10": "null"
+    },
+    {
+        "time": "1967",
+        "deaths": 42052.0,
+        "deaths_per_million": 5721.24,
+        "deaths_per_million_MA_5": 5654.47,
+        "deaths_MA_5": 40982.6,
+        "deaths_per_million_MA_10": "null",
+        "deaths_MA_10": "null"
+    },
+    {
+        "time": "1968",
+        "deaths": 42899.0,
+        "deaths_per_million": 5794.16,
+        "deaths_per_million_MA_5": 5606.98,
+        "deaths_MA_5": 40935.0,
+        "deaths_per_million_MA_10": "null",
+        "deaths_MA_10": "null"
+    },
+    {
+        "time": "1969",
+        "deaths": 42929.0,
+        "deaths_per_million": 5780.15,
+        "deaths_per_million_MA_5": 5694.73,
+        "deaths_MA_5": 41829.4,
+        "deaths_per_million_MA_10": 5675.76,
+        "deaths_MA_10": 41025.6
+    },
+    {
+        "time": "1970",
+        "deaths": 43773.0,
+        "deaths_per_million": 5871.52,
+        "deaths_per_million_MA_5": 5718.2,
+        "deaths_MA_5": 42243.0,
+        "deaths_per_million_MA_10": 5664.61,
+        "deaths_MA_10": 41196.6
+    },
+    {
+        "time": "1971",
+        "deaths": 42730.0,
+        "deaths_per_million": 5713.31,
+        "deaths_per_million_MA_5": 5776.08,
+        "deaths_MA_5": 42876.6,
+        "deaths_per_million_MA_10": 5720.98,
+        "deaths_MA_10": 41831.6
+    },
+    {
+        "time": "1972",
+        "deaths": 41421.0,
+        "deaths_per_million": 5506.7,
+        "deaths_per_million_MA_5": 5733.17,
+        "deaths_MA_5": 42750.4,
+        "deaths_per_million_MA_10": 5693.82,
+        "deaths_MA_10": 41866.5
+    },
+    {
+        "time": "1973",
+        "deaths": 40749.0,
+        "deaths_per_million": 5385.47,
+        "deaths_per_million_MA_5": 5651.43,
+        "deaths_MA_5": 42320.4,
+        "deaths_per_million_MA_10": 5629.2,
+        "deaths_MA_10": 41627.7
+    },
+    {
+        "time": "1974",
+        "deaths": 39282.0,
+        "deaths_per_million": 5164.77,
+        "deaths_per_million_MA_5": 5528.35,
+        "deaths_MA_5": 41591.0,
+        "deaths_per_million_MA_10": 5611.54,
+        "deaths_MA_10": 41710.2
+    },
+    {
+        "time": "1975",
+        "deaths": 43051.0,
+        "deaths_per_million": 5670.34,
+        "deaths_per_million_MA_5": 5488.12,
+        "deaths_MA_5": 41446.6,
+        "deaths_per_million_MA_10": 5603.16,
+        "deaths_MA_10": 41844.8
+    },
+    {
+        "time": "1976",
+        "deaths": 42564.0,
+        "deaths_per_million": 5626.07,
+        "deaths_per_million_MA_5": 5470.67,
+        "deaths_MA_5": 41413.4,
+        "deaths_per_million_MA_10": 5623.37,
+        "deaths_MA_10": 42145.0
+    },
+    {
+        "time": "1977",
+        "deaths": 39695.0,
+        "deaths_per_million": 5246.8,
+        "deaths_per_million_MA_5": 5418.69,
+        "deaths_MA_5": 41068.2,
+        "deaths_per_million_MA_10": 5575.93,
+        "deaths_MA_10": 41909.3
+    },
+    {
+        "time": "1978",
+        "deaths": 41819.0,
+        "deaths_per_million": 5523.36,
+        "deaths_per_million_MA_5": 5446.27,
+        "deaths_MA_5": 41282.2,
+        "deaths_per_million_MA_10": 5548.85,
+        "deaths_MA_10": 41801.3
+    },
+    {
+        "time": "1979",
+        "deaths": 39723.0,
+        "deaths_per_million": 5259.02,
+        "deaths_per_million_MA_5": 5465.12,
+        "deaths_MA_5": 41370.4,
+        "deaths_per_million_MA_10": 5496.74,
+        "deaths_MA_10": 41480.7
+    },
+    {
+        "time": "1980",
+        "deaths": 39650.0,
+        "deaths_per_million": 5254.76,
+        "deaths_per_million_MA_5": 5382.0,
+        "deaths_MA_5": 40690.2,
+        "deaths_per_million_MA_10": 5435.06,
+        "deaths_MA_10": 41068.4
+    },
+    {
+        "time": "1981",
+        "deaths": 40383.0,
+        "deaths_per_million": 5346.39,
+        "deaths_per_million_MA_5": 5326.07,
+        "deaths_MA_5": 40254.0,
+        "deaths_per_million_MA_10": 5398.37,
+        "deaths_MA_10": 40833.7
+    },
+    {
+        "time": "1982",
+        "deaths": 39651.0,
+        "deaths_per_million": 5228.18,
+        "deaths_per_million_MA_5": 5322.34,
+        "deaths_MA_5": 40245.2,
+        "deaths_per_million_MA_10": 5370.52,
+        "deaths_MA_10": 40656.7
+    },
+    {
+        "time": "1983",
+        "deaths": 41794.0,
+        "deaths_per_million": 5525.25,
+        "deaths_per_million_MA_5": 5322.72,
+        "deaths_MA_5": 40240.2,
+        "deaths_per_million_MA_10": 5384.49,
+        "deaths_MA_10": 40761.2
+    },
+    {
+        "time": "1984",
+        "deaths": 38152.0,
+        "deaths_per_million": 5046.8,
+        "deaths_per_million_MA_5": 5280.28,
+        "deaths_MA_5": 39926.0,
+        "deaths_per_million_MA_10": 5372.7,
+        "deaths_MA_10": 40648.2
+    },
+    {
+        "time": "1985",
+        "deaths": 40866.0,
+        "deaths_per_million": 5403.24,
+        "deaths_per_million_MA_5": 5309.97,
+        "deaths_MA_5": 40169.2,
+        "deaths_per_million_MA_10": 5345.99,
+        "deaths_MA_10": 40429.7
+    },
+    {
+        "time": "1986",
+        "deaths": 38217.0,
+        "deaths_per_million": 5050.66,
+        "deaths_per_million_MA_5": 5250.83,
+        "deaths_MA_5": 39736.0,
+        "deaths_per_million_MA_10": 5288.45,
+        "deaths_MA_10": 39995.0
+    },
+    {
+        "time": "1987",
+        "deaths": 36909.0,
+        "deaths_per_million": 4873.86,
+        "deaths_per_million_MA_5": 5179.96,
+        "deaths_MA_5": 39187.6,
+        "deaths_per_million_MA_10": 5251.15,
+        "deaths_MA_10": 39716.4
+    },
+    {
+        "time": "1988",
+        "deaths": 35766.0,
+        "deaths_per_million": 4720.76,
+        "deaths_per_million_MA_5": 5019.06,
+        "deaths_MA_5": 37982.0,
+        "deaths_per_million_MA_10": 5170.89,
+        "deaths_MA_10": 39111.1
+    },
+    {
+        "time": "1989",
+        "deaths": 36418.0,
+        "deaths_per_million": 4795.43,
+        "deaths_per_million_MA_5": 4968.79,
+        "deaths_MA_5": 37635.2,
+        "deaths_per_million_MA_10": 5124.53,
+        "deaths_MA_10": 38780.6
+    },
+    {
+        "time": "1990",
+        "deaths": 36728.0,
+        "deaths_per_million": 4804.3,
+        "deaths_per_million_MA_5": 4849.0,
+        "deaths_MA_5": 36807.6,
+        "deaths_per_million_MA_10": 5079.49,
+        "deaths_MA_10": 38488.4
+    },
+    {
+        "time": "1991",
+        "deaths": 35910.0,
+        "deaths_per_million": 4657.05,
+        "deaths_per_million_MA_5": 4770.28,
+        "deaths_MA_5": 36346.2,
+        "deaths_per_million_MA_10": 5010.55,
+        "deaths_MA_10": 38041.1
+    },
+    {
+        "time": "1992",
+        "deaths": 36479.0,
+        "deaths_per_million": 4677.46,
+        "deaths_per_million_MA_5": 4731.0,
+        "deaths_MA_5": 36260.2,
+        "deaths_per_million_MA_10": 4955.48,
+        "deaths_MA_10": 37723.9
+    },
+    {
+        "time": "1993",
+        "deaths": 35687.0,
+        "deaths_per_million": 4527.36,
+        "deaths_per_million_MA_5": 4692.32,
+        "deaths_MA_5": 36244.4,
+        "deaths_per_million_MA_10": 4855.69,
+        "deaths_MA_10": 37113.2
+    },
+    {
+        "time": "1994",
+        "deaths": 34460.0,
+        "deaths_per_million": 4346.21,
+        "deaths_per_million_MA_5": 4602.48,
+        "deaths_MA_5": 35852.8,
+        "deaths_per_million_MA_10": 4785.63,
+        "deaths_MA_10": 36744.0
+    },
+    {
+        "time": "1995",
+        "deaths": 35022.0,
+        "deaths_per_million": 4408.89,
+        "deaths_per_million_MA_5": 4523.39,
+        "deaths_MA_5": 35511.6,
+        "deaths_per_million_MA_10": 4686.2,
+        "deaths_MA_10": 36159.6
+    },
+    {
+        "time": "1996",
+        "deaths": 36351.0,
+        "deaths_per_million": 4570.69,
+        "deaths_per_million_MA_5": 4506.12,
+        "deaths_MA_5": 35599.8,
+        "deaths_per_million_MA_10": 4638.2,
+        "deaths_MA_10": 35973.0
+    },
+    {
+        "time": "1997",
+        "deaths": 35130.0,
+        "deaths_per_million": 4410.56,
+        "deaths_per_million_MA_5": 4452.74,
+        "deaths_MA_5": 35330.0,
+        "deaths_per_million_MA_10": 4591.87,
+        "deaths_MA_10": 35795.1
+    },
+    {
+        "time": "1998",
+        "deaths": 33801.0,
+        "deaths_per_million": 4240.44,
+        "deaths_per_million_MA_5": 4395.36,
+        "deaths_MA_5": 34952.8,
+        "deaths_per_million_MA_10": 4543.84,
+        "deaths_MA_10": 35598.6
+    },
+    {
+        "time": "1999",
+        "deaths": 35265.0,
+        "deaths_per_million": 4417.81,
+        "deaths_per_million_MA_5": 4409.68,
+        "deaths_MA_5": 35113.8,
+        "deaths_per_million_MA_10": 4506.08,
+        "deaths_MA_10": 35483.3
+    },
+    {
+        "time": "2000",
+        "deaths": 34381.0,
+        "deaths_per_million": 4296.45,
+        "deaths_per_million_MA_5": 4387.19,
+        "deaths_MA_5": 34985.6,
+        "deaths_per_million_MA_10": 4455.29,
+        "deaths_MA_10": 35248.6
+    },
+    {
+        "time": "2001",
+        "deaths": 31749.0,
+        "deaths_per_million": 3958.26,
+        "deaths_per_million_MA_5": 4264.7,
+        "deaths_MA_5": 34065.2,
+        "deaths_per_million_MA_10": 4385.41,
+        "deaths_MA_10": 34832.5
+    },
+    {
+        "time": "2002",
+        "deaths": 32406.0,
+        "deaths_per_million": 4018.78,
+        "deaths_per_million_MA_5": 4186.35,
+        "deaths_MA_5": 33520.4,
+        "deaths_per_million_MA_10": 4319.55,
+        "deaths_MA_10": 34425.2
+    },
+    {
+        "time": "2003",
+        "deaths": 34194.0,
+        "deaths_per_million": 4221.34,
+        "deaths_per_million_MA_5": 4182.53,
+        "deaths_MA_5": 33599.0,
+        "deaths_per_million_MA_10": 4288.94,
+        "deaths_MA_10": 34275.9
+    },
+    {
+        "time": "2004",
+        "deaths": 32414.0,
+        "deaths_per_million": 3980.81,
+        "deaths_per_million_MA_5": 4095.13,
+        "deaths_MA_5": 33028.8,
+        "deaths_per_million_MA_10": 4252.4,
+        "deaths_MA_10": 34071.3
+    },
+    {
+        "time": "2005",
+        "deaths": 33606.0,
+        "deaths_per_million": 4097.61,
+        "deaths_per_million_MA_5": 4055.36,
+        "deaths_MA_5": 32873.8,
+        "deaths_per_million_MA_10": 4221.28,
+        "deaths_MA_10": 33929.7
+    },
+    {
+        "time": "2006",
+        "deaths": 31832.0,
+        "deaths_per_million": 3856.42,
+        "deaths_per_million_MA_5": 4034.99,
+        "deaths_MA_5": 32890.4,
+        "deaths_per_million_MA_10": 4149.85,
+        "deaths_MA_10": 33477.8
+    },
+    {
+        "time": "2007",
+        "deaths": 31949.0,
+        "deaths_per_million": 3857.18,
+        "deaths_per_million_MA_5": 4002.67,
+        "deaths_MA_5": 32799.0,
+        "deaths_per_million_MA_10": 4094.51,
+        "deaths_MA_10": 33159.7
+    },
+    {
+        "time": "2008",
+        "deaths": 32681.0,
+        "deaths_per_million": 3933.68,
+        "deaths_per_million_MA_5": 3945.14,
+        "deaths_MA_5": 32496.4,
+        "deaths_per_million_MA_10": 4063.83,
+        "deaths_MA_10": 33047.7
+    },
+    {
+        "time": "2009",
+        "deaths": 34606.0,
+        "deaths_per_million": 4151.89,
+        "deaths_per_million_MA_5": 3979.36,
+        "deaths_MA_5": 32934.8,
+        "deaths_per_million_MA_10": 4037.24,
+        "deaths_MA_10": 32981.8
+    },
+    {
+        "time": "2010",
+        "deaths": 32655.0,
+        "deaths_per_million": 3910.01,
+        "deaths_per_million_MA_5": 3941.84,
+        "deaths_MA_5": 32744.6,
+        "deaths_per_million_MA_10": 3998.6,
+        "deaths_MA_10": 32809.2
+    },
+    {
+        "time": "2011",
+        "deaths": 32812.0,
+        "deaths_per_million": 3917.77,
+        "deaths_per_million_MA_5": 3954.11,
+        "deaths_MA_5": 32940.6,
+        "deaths_per_million_MA_10": 3994.55,
+        "deaths_MA_10": 32915.5
+    },
+    {
+        "time": "2012",
+        "deaths": 34870.0,
+        "deaths_per_million": 4147.18,
+        "deaths_per_million_MA_5": 4012.11,
+        "deaths_MA_5": 33524.8,
+        "deaths_per_million_MA_10": 4007.39,
+        "deaths_MA_10": 33161.9
+    },
+    {
+        "time": "2013",
+        "deaths": 34795.0,
+        "deaths_per_million": 4116.85,
+        "deaths_per_million_MA_5": 4048.74,
+        "deaths_MA_5": 33947.6,
+        "deaths_per_million_MA_10": 3996.94,
+        "deaths_MA_10": 33222.0
+    },
+    {
+        "time": "2014",
+        "deaths": 33473.0,
+        "deaths_per_million": 3934.4,
+        "deaths_per_million_MA_5": 4005.24,
+        "deaths_MA_5": 33721.0,
+        "deaths_per_million_MA_10": 3992.3,
+        "deaths_MA_10": 33327.9
+    },
+    {
+        "time": "2015",
+        "deaths": 37060.0,
+        "deaths_per_million": 4316.87,
+        "deaths_per_million_MA_5": 4086.61,
+        "deaths_MA_5": 34602.0,
+        "deaths_per_million_MA_10": 4014.23,
+        "deaths_MA_10": 33673.3
+    },
+    {
+        "time": "2016",
+        "deaths": 34241.0,
+        "deaths_per_million": 3935.53,
+        "deaths_per_million_MA_5": 4090.17,
+        "deaths_MA_5": 34887.8,
+        "deaths_per_million_MA_10": 4022.14,
+        "deaths_MA_10": 33914.2
+    },
+    {
+        "time": "2017",
+        "deaths": 37395.0,
+        "deaths_per_million": 4262.58,
+        "deaths_per_million_MA_5": 4113.25,
+        "deaths_MA_5": 35392.8,
+        "deaths_per_million_MA_10": 4062.68,
+        "deaths_MA_10": 34458.8
+    },
+    {
+        "time": "2018",
+        "deaths": 37210.0,
+        "deaths_per_million": 4217.74,
+        "deaths_per_million_MA_5": 4133.42,
+        "deaths_MA_5": 35875.8,
+        "deaths_per_million_MA_10": 4091.08,
+        "deaths_MA_10": 34911.7
+    },
+    {
+        "time": "2019",
+        "deaths": 35754.0,
+        "deaths_per_million": 4036.0,
+        "deaths_per_million_MA_5": 4153.74,
+        "deaths_MA_5": 36332.0,
+        "deaths_per_million_MA_10": 4079.49,
+        "deaths_MA_10": 35026.5
+    },
+    {
+        "time": "2020",
+        "deaths": 37083.0,
+        "deaths_per_million": 4166.13,
+        "deaths_per_million_MA_5": 4123.6,
+        "deaths_MA_5": 36336.6,
+        "deaths_per_million_MA_10": 4105.11,
+        "deaths_MA_10": 35469.3
+    }
+]
