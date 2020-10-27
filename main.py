@@ -53,7 +53,7 @@ dea_df = dea_df.reset_index()
 
 dea_yea_ds = client.get_dataset('demo_mmonth')
 dea_yea_df = dea_yea_ds.to_dataframe()
-dea_yea_df = dea_yea_df[dea_yea_df['month'].isin(['M01', 'M02', 'M03', 'M04', 'M05'])]
+dea_yea_df = dea_yea_df[dea_yea_df['month'].isin(['M01', 'M02', 'M03', 'M04', 'M05', 'M06'])]
 dea_yea_df = dea_yea_df.groupby(['geo', 'time'])['values'].agg('sum', min_count=5).reset_index()
 dea_yea_df = dea_yea_df.rename(columns={'values': 'deaths'})
 
@@ -89,7 +89,7 @@ def generateJSON(df):
         country_data = df[df['geo'] == country_code]
         if not isWeekly:
             week_df = dea_df[dea_df['geo'] == country_code]
-            deaths_2020 = week_df[(week_df['time'] >= '2020W01') & (week_df['time'] <= '2020W22')].sum().deaths
+            deaths_2020 = week_df[(week_df['time'] >= '2020W01') & (week_df['time'] <= '2020W26')].sum().deaths
             pop_2020 = pop_df[(pop_df['geo'] == country_code) & (pop_df['time'] == '2020')].values[0][0]
             deaths_per_million_2020 = round((deaths_2020 / pop_2020) * 1000000, 2)
             country_data = country_data.append({'geo': country_code, 'time': '2020', 'deaths': deaths_2020, 'deaths_per_million': deaths_per_million_2020}, ignore_index=True)

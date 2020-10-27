@@ -1,83 +1,35 @@
 [
     {
-        "label": "Norway",
-        "value": "NO"
+        "label": "Poland",
+        "value": "PL"
     },
     {
-        "label": "Luxembourg",
-        "value": "LU"
+        "label": "Croatia",
+        "value": "HR"
     },
     {
-        "label": "Armenia",
-        "value": "AM"
+        "label": "Iceland",
+        "value": "IS"
     },
     {
-        "label": "Estonia",
-        "value": "EE"
-    },
-    {
-        "label": "United Kingdom",
-        "value": "UK"
-    },
-    {
-        "label": "Greece",
-        "value": "EL"
-    },
-    {
-        "label": "Georgia",
-        "value": "GE"
-    },
-    {
-        "label": "Portugal",
-        "value": "PT"
-    },
-    {
-        "label": "Lithuania",
-        "value": "LT"
-    },
-    {
-        "label": "Bulgaria",
-        "value": "BG"
+        "label": "Netherlands",
+        "value": "NL"
     },
     {
         "label": "Slovakia",
         "value": "SK"
     },
     {
-        "label": "Slovenia",
-        "value": "SI"
+        "label": "Austria",
+        "value": "AT"
     },
     {
-        "label": "Denmark",
-        "value": "DK"
+        "label": "Greece",
+        "value": "EL"
     },
     {
-        "label": "Germany",
-        "value": "DE"
-    },
-    {
-        "label": "Czechia",
-        "value": "CZ"
-    },
-    {
-        "label": "Montenegro",
-        "value": "ME"
-    },
-    {
-        "label": "Sweden",
-        "value": "SE"
-    },
-    {
-        "label": "Latvia",
-        "value": "LV"
-    },
-    {
-        "label": "France",
-        "value": "FR"
-    },
-    {
-        "label": "Spain",
-        "value": "ES"
+        "label": "Armenia",
+        "value": "AM"
     },
     {
         "label": "Italy",
@@ -88,59 +40,107 @@
         "value": "LI"
     },
     {
-        "label": "Poland",
-        "value": "PL"
-    },
-    {
-        "label": "Serbia",
-        "value": "RS"
-    },
-    {
-        "label": "Austria",
-        "value": "AT"
-    },
-    {
-        "label": "Hungary",
-        "value": "HU"
-    },
-    {
         "label": "Malta",
         "value": "MT"
-    },
-    {
-        "label": "Cyprus",
-        "value": "CY"
     },
     {
         "label": "Romania",
         "value": "RO"
     },
     {
-        "label": "Albania",
-        "value": "AL"
+        "label": "Lithuania",
+        "value": "LT"
     },
     {
-        "label": "Netherlands",
-        "value": "NL"
+        "label": "Portugal",
+        "value": "PT"
+    },
+    {
+        "label": "Estonia",
+        "value": "EE"
+    },
+    {
+        "label": "Denmark",
+        "value": "DK"
+    },
+    {
+        "label": "Cyprus",
+        "value": "CY"
+    },
+    {
+        "label": "Georgia",
+        "value": "GE"
+    },
+    {
+        "label": "Montenegro",
+        "value": "ME"
     },
     {
         "label": "Switzerland",
         "value": "CH"
     },
     {
-        "label": "Belgium",
-        "value": "BE"
+        "label": "Czechia",
+        "value": "CZ"
+    },
+    {
+        "label": "Latvia",
+        "value": "LV"
+    },
+    {
+        "label": "France",
+        "value": "FR"
+    },
+    {
+        "label": "United Kingdom",
+        "value": "UK"
     },
     {
         "label": "Finland",
         "value": "FI"
     },
     {
-        "label": "Croatia",
-        "value": "HR"
+        "label": "Germany",
+        "value": "DE"
     },
     {
-        "label": "Iceland",
-        "value": "IS"
+        "label": "Belgium",
+        "value": "BE"
+    },
+    {
+        "label": "Sweden",
+        "value": "SE"
+    },
+    {
+        "label": "Luxembourg",
+        "value": "LU"
+    },
+    {
+        "label": "Hungary",
+        "value": "HU"
+    },
+    {
+        "label": "Serbia",
+        "value": "RS"
+    },
+    {
+        "label": "Slovenia",
+        "value": "SI"
+    },
+    {
+        "label": "Spain",
+        "value": "ES"
+    },
+    {
+        "label": "Albania",
+        "value": "AL"
+    },
+    {
+        "label": "Bulgaria",
+        "value": "BG"
+    },
+    {
+        "label": "Norway",
+        "value": "NO"
     }
 ]
