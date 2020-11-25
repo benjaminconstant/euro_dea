@@ -9790,5 +9790,23 @@
         "deaths_MA_5": 537.6,
         "deaths_per_million_MA_10": 271.27,
         "deaths_MA_10": 517.5
+    },
+    {
+        "deaths": 572.0,
+        "time": "2020W46",
+        "deaths_per_million": 299.84,
+        "deaths_per_million_MA_5": 287.26,
+        "deaths_MA_5": 548.0,
+        "deaths_per_million_MA_10": 277.2,
+        "deaths_MA_10": 528.8
+    },
+    {
+        "deaths": 599.0,
+        "time": "2020W47",
+        "deaths_per_million": 313.99,
+        "deaths_per_million_MA_5": 296.69,
+        "deaths_MA_5": 566.0,
+        "deaths_per_million_MA_10": 282.91,
+        "deaths_MA_10": 539.7
     }
 ]

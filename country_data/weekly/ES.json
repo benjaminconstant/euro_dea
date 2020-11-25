@@ -9387,395 +9387,413 @@
         "deaths_MA_10": 7992.4
     },
     {
-        "deaths": 8903.0,
+        "deaths": 8905.0,
         "time": "2020W01",
-        "deaths_per_million": 188.1,
-        "deaths_per_million_MA_5": 176.37,
-        "deaths_MA_5": 8293.2,
+        "deaths_per_million": 188.15,
+        "deaths_per_million_MA_5": 176.38,
+        "deaths_MA_5": 8293.6,
         "deaths_per_million_MA_10": 173.08,
-        "deaths_MA_10": 8131.1
+        "deaths_MA_10": 8131.3
     },
     {
-        "deaths": 9615.0,
+        "deaths": 9616.0,
         "time": "2020W02",
-        "deaths_per_million": 203.15,
-        "deaths_per_million_MA_5": 183.16,
-        "deaths_MA_5": 8627.8,
+        "deaths_per_million": 203.17,
+        "deaths_per_million_MA_5": 183.17,
+        "deaths_MA_5": 8628.4,
         "deaths_per_million_MA_10": 177.06,
-        "deaths_MA_10": 8325.8
+        "deaths_MA_10": 8326.1
     },
     {
         "deaths": 10111.0,
         "time": "2020W03",
         "deaths_per_million": 213.63,
-        "deaths_per_million_MA_5": 190.78,
-        "deaths_MA_5": 9002.2,
+        "deaths_per_million_MA_5": 190.79,
+        "deaths_MA_5": 9002.8,
         "deaths_per_million_MA_10": 182.1,
-        "deaths_MA_10": 8570.8
+        "deaths_MA_10": 8571.1
     },
     {
         "deaths": 9610.0,
         "time": "2020W04",
         "deaths_per_million": 203.04,
-        "deaths_per_million_MA_5": 196.15,
-        "deaths_MA_5": 9270.4,
-        "deaths_per_million_MA_10": 185.32,
-        "deaths_MA_10": 8730.2
+        "deaths_per_million_MA_5": 196.17,
+        "deaths_MA_5": 9271.0,
+        "deaths_per_million_MA_10": 185.33,
+        "deaths_MA_10": 8730.5
     },
     {
         "deaths": 9650.0,
         "time": "2020W05",
         "deaths_per_million": 203.89,
-        "deaths_per_million_MA_5": 202.36,
-        "deaths_MA_5": 9577.8,
-        "deaths_per_million_MA_10": 188.21,
-        "deaths_MA_10": 8873.9
+        "deaths_per_million_MA_5": 202.38,
+        "deaths_MA_5": 9578.4,
+        "deaths_per_million_MA_10": 188.22,
+        "deaths_MA_10": 8874.2
     },
     {
-        "deaths": 9402.0,
+        "deaths": 9403.0,
         "time": "2020W06",
-        "deaths_per_million": 198.65,
-        "deaths_per_million_MA_5": 204.47,
-        "deaths_MA_5": 9677.6,
-        "deaths_per_million_MA_10": 190.42,
-        "deaths_MA_10": 8985.4
+        "deaths_per_million": 198.67,
+        "deaths_per_million_MA_5": 204.48,
+        "deaths_MA_5": 9678.0,
+        "deaths_per_million_MA_10": 190.43,
+        "deaths_MA_10": 8985.8
     },
     {
         "deaths": 8988.0,
         "time": "2020W07",
         "deaths_per_million": 189.9,
-        "deaths_per_million_MA_5": 201.82,
-        "deaths_MA_5": 9552.2,
-        "deaths_per_million_MA_10": 192.49,
-        "deaths_MA_10": 9090.0
+        "deaths_per_million_MA_5": 201.83,
+        "deaths_MA_5": 9552.4,
+        "deaths_per_million_MA_10": 192.5,
+        "deaths_MA_10": 9090.4
     },
     {
         "deaths": 8510.0,
         "time": "2020W08",
         "deaths_per_million": 179.8,
         "deaths_per_million_MA_5": 195.06,
-        "deaths_MA_5": 9232.0,
-        "deaths_per_million_MA_10": 192.92,
-        "deaths_MA_10": 9117.1
+        "deaths_MA_5": 9232.2,
+        "deaths_per_million_MA_10": 192.93,
+        "deaths_MA_10": 9117.5
     },
     {
         "deaths": 8001.0,
         "time": "2020W09",
         "deaths_per_million": 169.05,
         "deaths_per_million_MA_5": 188.26,
-        "deaths_MA_5": 8910.2,
-        "deaths_per_million_MA_10": 192.21,
-        "deaths_MA_10": 9090.3
+        "deaths_MA_5": 8910.4,
+        "deaths_per_million_MA_10": 192.22,
+        "deaths_MA_10": 9090.7
     },
     {
-        "deaths": 8654.0,
+        "deaths": 8655.0,
         "time": "2020W10",
-        "deaths_per_million": 182.84,
-        "deaths_per_million_MA_5": 184.05,
-        "deaths_MA_5": 8711.0,
-        "deaths_per_million_MA_10": 193.21,
-        "deaths_MA_10": 9144.4
+        "deaths_per_million": 182.87,
+        "deaths_per_million_MA_5": 184.06,
+        "deaths_MA_5": 8711.4,
+        "deaths_per_million_MA_10": 193.22,
+        "deaths_MA_10": 9144.9
     },
     {
-        "deaths": 9287.0,
+        "deaths": 9288.0,
         "time": "2020W11",
-        "deaths_per_million": 196.22,
-        "deaths_per_million_MA_5": 183.56,
-        "deaths_MA_5": 8688.0,
-        "deaths_per_million_MA_10": 194.02,
-        "deaths_MA_10": 9182.8
+        "deaths_per_million": 196.24,
+        "deaths_per_million_MA_5": 183.57,
+        "deaths_MA_5": 8688.4,
+        "deaths_per_million_MA_10": 194.03,
+        "deaths_MA_10": 9183.2
     },
     {
-        "deaths": 12678.0,
+        "deaths": 12679.0,
         "time": "2020W12",
-        "deaths_per_million": 267.86,
-        "deaths_per_million_MA_5": 199.15,
-        "deaths_MA_5": 9426.0,
-        "deaths_per_million_MA_10": 200.49,
-        "deaths_MA_10": 9489.1
+        "deaths_per_million": 267.89,
+        "deaths_per_million_MA_5": 199.17,
+        "deaths_MA_5": 9426.6,
+        "deaths_per_million_MA_10": 200.5,
+        "deaths_MA_10": 9489.5
     },
     {
         "deaths": 19222.0,
         "time": "2020W13",
         "deaths_per_million": 406.13,
-        "deaths_per_million_MA_5": 244.42,
-        "deaths_MA_5": 11568.4,
-        "deaths_per_million_MA_10": 219.74,
-        "deaths_MA_10": 10400.2
+        "deaths_per_million_MA_5": 244.44,
+        "deaths_MA_5": 11569.0,
+        "deaths_per_million_MA_10": 219.75,
+        "deaths_MA_10": 10400.6
     },
     {
         "deaths": 20658.0,
         "time": "2020W14",
         "deaths_per_million": 436.47,
-        "deaths_per_million_MA_5": 297.9,
-        "deaths_MA_5": 14099.8,
-        "deaths_per_million_MA_10": 243.08,
-        "deaths_MA_10": 11505.0
+        "deaths_per_million_MA_5": 297.92,
+        "deaths_MA_5": 14100.4,
+        "deaths_per_million_MA_10": 243.09,
+        "deaths_MA_10": 11505.4
     },
     {
         "deaths": 17230.0,
         "time": "2020W15",
         "deaths_per_million": 364.04,
-        "deaths_per_million_MA_5": 334.14,
-        "deaths_MA_5": 15815.0,
-        "deaths_per_million_MA_10": 259.1,
-        "deaths_MA_10": 12263.0
+        "deaths_per_million_MA_5": 334.15,
+        "deaths_MA_5": 15815.4,
+        "deaths_per_million_MA_10": 259.11,
+        "deaths_MA_10": 12263.4
     },
     {
-        "deaths": 13133.0,
+        "deaths": 13134.0,
         "time": "2020W16",
-        "deaths_per_million": 277.48,
-        "deaths_per_million_MA_5": 350.4,
-        "deaths_MA_5": 16584.2,
-        "deaths_per_million_MA_10": 266.98,
-        "deaths_MA_10": 12636.1
+        "deaths_per_million": 277.5,
+        "deaths_per_million_MA_5": 350.41,
+        "deaths_MA_5": 16584.6,
+        "deaths_per_million_MA_10": 266.99,
+        "deaths_MA_10": 12636.5
     },
     {
-        "deaths": 10344.0,
+        "deaths": 10345.0,
         "time": "2020W17",
-        "deaths_per_million": 218.55,
-        "deaths_per_million_MA_5": 340.53,
-        "deaths_MA_5": 16117.4,
-        "deaths_per_million_MA_10": 269.84,
-        "deaths_MA_10": 12771.7
+        "deaths_per_million": 218.57,
+        "deaths_per_million_MA_5": 340.54,
+        "deaths_MA_5": 16117.8,
+        "deaths_per_million_MA_10": 269.86,
+        "deaths_MA_10": 12772.2
     },
     {
         "deaths": 8835.0,
         "time": "2020W18",
         "deaths_per_million": 186.67,
-        "deaths_per_million_MA_5": 296.64,
-        "deaths_MA_5": 14040.0,
-        "deaths_per_million_MA_10": 270.53,
-        "deaths_MA_10": 12804.2
+        "deaths_per_million_MA_5": 296.65,
+        "deaths_MA_5": 14040.4,
+        "deaths_per_million_MA_10": 270.54,
+        "deaths_MA_10": 12804.7
     },
     {
-        "deaths": 8594.0,
+        "deaths": 8595.0,
         "time": "2020W19",
-        "deaths_per_million": 181.58,
-        "deaths_per_million_MA_5": 245.66,
-        "deaths_MA_5": 11627.2,
-        "deaths_per_million_MA_10": 271.78,
-        "deaths_MA_10": 12863.5
+        "deaths_per_million": 181.6,
+        "deaths_per_million_MA_5": 245.68,
+        "deaths_MA_5": 11627.8,
+        "deaths_per_million_MA_10": 271.8,
+        "deaths_MA_10": 12864.1
     },
     {
         "deaths": 7588.0,
         "time": "2020W20",
         "deaths_per_million": 160.32,
-        "deaths_per_million_MA_5": 204.92,
-        "deaths_MA_5": 9698.8,
-        "deaths_per_million_MA_10": 269.53,
-        "deaths_MA_10": 12756.9
+        "deaths_per_million_MA_5": 204.93,
+        "deaths_MA_5": 9699.4,
+        "deaths_per_million_MA_10": 269.54,
+        "deaths_MA_10": 12757.4
     },
     {
         "deaths": 7662.0,
         "time": "2020W21",
         "deaths_per_million": 161.88,
-        "deaths_per_million_MA_5": 181.8,
-        "deaths_MA_5": 8604.6,
-        "deaths_per_million_MA_10": 266.1,
-        "deaths_MA_10": 12594.4
+        "deaths_per_million_MA_5": 181.81,
+        "deaths_MA_5": 8605.0,
+        "deaths_per_million_MA_10": 266.11,
+        "deaths_MA_10": 12594.8
     },
     {
         "deaths": 7224.0,
         "time": "2020W22",
         "deaths_per_million": 152.63,
         "deaths_per_million_MA_5": 168.62,
-        "deaths_MA_5": 7980.6,
+        "deaths_MA_5": 7980.8,
         "deaths_per_million_MA_10": 254.58,
-        "deaths_MA_10": 12049.0
+        "deaths_MA_10": 12049.3
     },
     {
         "deaths": 7214.0,
         "time": "2020W23",
         "deaths_per_million": 152.42,
         "deaths_per_million_MA_5": 161.77,
-        "deaths_MA_5": 7656.4,
-        "deaths_per_million_MA_10": 229.2,
-        "deaths_MA_10": 10848.2
+        "deaths_MA_5": 7656.6,
+        "deaths_per_million_MA_10": 229.21,
+        "deaths_MA_10": 10848.5
     },
     {
-        "deaths": 6950.0,
+        "deaths": 6951.0,
         "time": "2020W24",
-        "deaths_per_million": 146.84,
+        "deaths_per_million": 146.86,
         "deaths_per_million_MA_5": 154.82,
-        "deaths_MA_5": 7327.6,
-        "deaths_per_million_MA_10": 200.24,
-        "deaths_MA_10": 9477.4
+        "deaths_MA_5": 7327.8,
+        "deaths_per_million_MA_10": 200.25,
+        "deaths_MA_10": 9477.8
     },
     {
-        "deaths": 7165.0,
+        "deaths": 7166.0,
         "time": "2020W25",
-        "deaths_per_million": 151.38,
-        "deaths_per_million_MA_5": 153.03,
-        "deaths_MA_5": 7243.0,
-        "deaths_per_million_MA_10": 178.98,
-        "deaths_MA_10": 8470.9
+        "deaths_per_million": 151.41,
+        "deaths_per_million_MA_5": 153.04,
+        "deaths_MA_5": 7243.4,
+        "deaths_per_million_MA_10": 178.99,
+        "deaths_MA_10": 8471.4
     },
     {
-        "deaths": 7644.0,
+        "deaths": 7645.0,
         "time": "2020W26",
-        "deaths_per_million": 161.5,
-        "deaths_per_million_MA_5": 152.95,
-        "deaths_MA_5": 7239.4,
-        "deaths_per_million_MA_10": 167.38,
-        "deaths_MA_10": 7922.0
+        "deaths_per_million": 161.53,
+        "deaths_per_million_MA_5": 152.97,
+        "deaths_MA_5": 7240.0,
+        "deaths_per_million_MA_10": 167.39,
+        "deaths_MA_10": 7922.5
     },
     {
-        "deaths": 7750.0,
+        "deaths": 7751.0,
         "time": "2020W27",
-        "deaths_per_million": 163.74,
-        "deaths_per_million_MA_5": 155.18,
-        "deaths_MA_5": 7344.6,
-        "deaths_per_million_MA_10": 161.9,
-        "deaths_MA_10": 7662.6
+        "deaths_per_million": 163.77,
+        "deaths_per_million_MA_5": 155.2,
+        "deaths_MA_5": 7345.4,
+        "deaths_per_million_MA_10": 161.91,
+        "deaths_MA_10": 7663.1
     },
     {
         "deaths": 7852.0,
         "time": "2020W28",
         "deaths_per_million": 165.9,
-        "deaths_per_million_MA_5": 157.87,
-        "deaths_MA_5": 7472.2,
-        "deaths_per_million_MA_10": 159.82,
-        "deaths_MA_10": 7564.3
+        "deaths_per_million_MA_5": 157.89,
+        "deaths_MA_5": 7473.0,
+        "deaths_per_million_MA_10": 159.83,
+        "deaths_MA_10": 7564.8
     },
     {
-        "deaths": 7715.0,
+        "deaths": 7717.0,
         "time": "2020W29",
-        "deaths_per_million": 163.0,
-        "deaths_per_million_MA_5": 161.1,
-        "deaths_MA_5": 7625.2,
-        "deaths_per_million_MA_10": 157.96,
-        "deaths_MA_10": 7476.4
+        "deaths_per_million": 163.05,
+        "deaths_per_million_MA_5": 161.13,
+        "deaths_MA_5": 7626.2,
+        "deaths_per_million_MA_10": 157.98,
+        "deaths_MA_10": 7477.0
     },
     {
         "deaths": 7925.0,
         "time": "2020W30",
         "deaths_per_million": 167.44,
-        "deaths_per_million_MA_5": 164.32,
-        "deaths_MA_5": 7777.2,
-        "deaths_per_million_MA_10": 158.67,
-        "deaths_MA_10": 7510.1
+        "deaths_per_million_MA_5": 164.34,
+        "deaths_MA_5": 7778.0,
+        "deaths_per_million_MA_10": 158.69,
+        "deaths_MA_10": 7510.7
     },
     {
-        "deaths": 8626.0,
+        "deaths": 8629.0,
         "time": "2020W31",
-        "deaths_per_million": 182.25,
-        "deaths_per_million_MA_5": 168.47,
-        "deaths_MA_5": 7973.6,
-        "deaths_per_million_MA_10": 160.71,
-        "deaths_MA_10": 7606.5
+        "deaths_per_million": 182.32,
+        "deaths_per_million_MA_5": 168.5,
+        "deaths_MA_5": 7974.8,
+        "deaths_per_million_MA_10": 160.73,
+        "deaths_MA_10": 7607.4
     },
     {
-        "deaths": 8529.0,
+        "deaths": 8532.0,
         "time": "2020W32",
-        "deaths_per_million": 180.2,
-        "deaths_per_million_MA_5": 171.76,
-        "deaths_MA_5": 8129.4,
-        "deaths_per_million_MA_10": 163.47,
-        "deaths_MA_10": 7737.0
+        "deaths_per_million": 180.27,
+        "deaths_per_million_MA_5": 171.8,
+        "deaths_MA_5": 8131.0,
+        "deaths_per_million_MA_10": 163.5,
+        "deaths_MA_10": 7738.2
     },
     {
-        "deaths": 8286.0,
+        "deaths": 8287.0,
         "time": "2020W33",
-        "deaths_per_million": 175.07,
-        "deaths_per_million_MA_5": 173.59,
-        "deaths_MA_5": 8216.2,
-        "deaths_per_million_MA_10": 165.73,
-        "deaths_MA_10": 7844.2
+        "deaths_per_million": 175.09,
+        "deaths_per_million_MA_5": 173.63,
+        "deaths_MA_5": 8218.0,
+        "deaths_per_million_MA_10": 165.76,
+        "deaths_MA_10": 7845.5
     },
     {
-        "deaths": 7992.0,
+        "deaths": 7994.0,
         "time": "2020W34",
-        "deaths_per_million": 168.86,
-        "deaths_per_million_MA_5": 174.76,
-        "deaths_MA_5": 8271.6,
-        "deaths_per_million_MA_10": 167.93,
-        "deaths_MA_10": 7948.4
+        "deaths_per_million": 168.9,
+        "deaths_per_million_MA_5": 174.8,
+        "deaths_MA_5": 8273.4,
+        "deaths_per_million_MA_10": 167.97,
+        "deaths_MA_10": 7949.8
     },
     {
-        "deaths": 8049.0,
+        "deaths": 8051.0,
         "time": "2020W35",
-        "deaths_per_million": 170.06,
-        "deaths_per_million_MA_5": 175.29,
-        "deaths_MA_5": 8296.4,
-        "deaths_per_million_MA_10": 169.8,
-        "deaths_MA_10": 8036.8
+        "deaths_per_million": 170.1,
+        "deaths_per_million_MA_5": 175.34,
+        "deaths_MA_5": 8298.6,
+        "deaths_per_million_MA_10": 169.84,
+        "deaths_MA_10": 8038.3
     },
     {
-        "deaths": 7893.0,
+        "deaths": 7896.0,
         "time": "2020W36",
-        "deaths_per_million": 166.77,
-        "deaths_per_million_MA_5": 172.19,
-        "deaths_MA_5": 8149.8,
-        "deaths_per_million_MA_10": 170.33,
-        "deaths_MA_10": 8061.7
+        "deaths_per_million": 166.83,
+        "deaths_per_million_MA_5": 172.24,
+        "deaths_MA_5": 8152.0,
+        "deaths_per_million_MA_10": 170.37,
+        "deaths_MA_10": 8063.4
     },
     {
-        "deaths": 8165.0,
+        "deaths": 8168.0,
         "time": "2020W37",
-        "deaths_per_million": 172.51,
-        "deaths_per_million_MA_5": 170.65,
-        "deaths_MA_5": 8077.0,
-        "deaths_per_million_MA_10": 171.21,
-        "deaths_MA_10": 8103.2
+        "deaths_per_million": 172.58,
+        "deaths_per_million_MA_5": 170.7,
+        "deaths_MA_5": 8079.2,
+        "deaths_per_million_MA_10": 171.25,
+        "deaths_MA_10": 8105.1
     },
     {
-        "deaths": 8316.0,
+        "deaths": 8322.0,
         "time": "2020W38",
-        "deaths_per_million": 175.7,
-        "deaths_per_million_MA_5": 170.78,
-        "deaths_MA_5": 8083.0,
-        "deaths_per_million_MA_10": 172.19,
-        "deaths_MA_10": 8149.6
+        "deaths_per_million": 175.83,
+        "deaths_per_million_MA_5": 170.85,
+        "deaths_MA_5": 8086.2,
+        "deaths_per_million_MA_10": 172.24,
+        "deaths_MA_10": 8152.1
     },
     {
-        "deaths": 8270.0,
+        "deaths": 8275.0,
         "time": "2020W39",
-        "deaths_per_million": 174.73,
-        "deaths_per_million_MA_5": 171.95,
-        "deaths_MA_5": 8138.6,
-        "deaths_per_million_MA_10": 173.36,
-        "deaths_MA_10": 8205.1
+        "deaths_per_million": 174.84,
+        "deaths_per_million_MA_5": 172.04,
+        "deaths_MA_5": 8142.4,
+        "deaths_per_million_MA_10": 173.42,
+        "deaths_MA_10": 8207.9
     },
     {
-        "deaths": 8299.0,
+        "deaths": 8328.0,
         "time": "2020W40",
-        "deaths_per_million": 175.34,
-        "deaths_per_million_MA_5": 173.01,
-        "deaths_MA_5": 8188.6,
-        "deaths_per_million_MA_10": 174.15,
-        "deaths_MA_10": 8242.5
+        "deaths_per_million": 175.96,
+        "deaths_per_million_MA_5": 173.21,
+        "deaths_MA_5": 8197.8,
+        "deaths_per_million_MA_10": 174.27,
+        "deaths_MA_10": 8248.2
     },
     {
-        "deaths": 8754.0,
+        "deaths": 8784.0,
         "time": "2020W41",
-        "deaths_per_million": 184.96,
-        "deaths_per_million_MA_5": 176.65,
-        "deaths_MA_5": 8360.8,
-        "deaths_per_million_MA_10": 174.42,
-        "deaths_MA_10": 8255.3
+        "deaths_per_million": 185.59,
+        "deaths_per_million_MA_5": 176.96,
+        "deaths_MA_5": 8375.4,
+        "deaths_per_million_MA_10": 174.6,
+        "deaths_MA_10": 8263.7
     },
     {
-        "deaths": 8677.0,
+        "deaths": 8744.0,
         "time": "2020W42",
-        "deaths_per_million": 183.33,
-        "deaths_per_million_MA_5": 178.81,
-        "deaths_MA_5": 8463.2,
-        "deaths_per_million_MA_10": 174.73,
-        "deaths_MA_10": 8270.1
+        "deaths_per_million": 184.75,
+        "deaths_per_million_MA_5": 179.39,
+        "deaths_MA_5": 8490.6,
+        "deaths_per_million_MA_10": 175.05,
+        "deaths_MA_10": 8284.9
     },
     {
-        "deaths": 9374.0,
+        "deaths": 9672.0,
         "time": "2020W43",
-        "deaths_per_million": 198.06,
-        "deaths_per_million_MA_5": 183.28,
-        "deaths_MA_5": 8674.8,
-        "deaths_per_million_MA_10": 177.03,
-        "deaths_MA_10": 8378.9
+        "deaths_per_million": 204.35,
+        "deaths_per_million_MA_5": 185.1,
+        "deaths_MA_5": 8760.6,
+        "deaths_per_million_MA_10": 177.97,
+        "deaths_MA_10": 8423.4
+    },
+    {
+        "deaths": 9775.0,
+        "time": "2020W44",
+        "deaths_per_million": 206.53,
+        "deaths_per_million_MA_5": 191.44,
+        "deaths_MA_5": 9060.6,
+        "deaths_per_million_MA_10": 181.74,
+        "deaths_MA_10": 8601.5
+    },
+    {
+        "deaths": 10208.0,
+        "time": "2020W45",
+        "deaths_per_million": 215.68,
+        "deaths_per_million_MA_5": 199.38,
+        "deaths_MA_5": 9436.6,
+        "deaths_per_million_MA_10": 186.29,
+        "deaths_MA_10": 8817.2
     },
     {
         "deaths": "null",
-        "time": "2020W44",
+        "time": "2020W46",
         "deaths_per_million": "null",
         "deaths_per_million_MA_5": "null",
         "deaths_MA_5": "null",
@@ -9784,7 +9802,7 @@
     },
     {
         "deaths": "null",
-        "time": "2020W45",
+        "time": "2020W47",
         "deaths_per_million": "null",
         "deaths_per_million_MA_5": "null",
         "deaths_MA_5": "null",
