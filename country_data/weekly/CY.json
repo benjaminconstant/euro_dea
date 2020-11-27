@@ -9801,12 +9801,12 @@
         "deaths_MA_10": 104.2
     },
     {
-        "deaths": 46.0,
+        "deaths": "null",
         "time": "2020W47",
-        "deaths_per_million": 51.8,
-        "deaths_per_million_MA_5": 101.8,
-        "deaths_MA_5": 90.4,
-        "deaths_per_million_MA_10": 109.12,
-        "deaths_MA_10": 96.9
+        "deaths_per_million": "null",
+        "deaths_per_million_MA_5": "null",
+        "deaths_MA_5": "null",
+        "deaths_per_million_MA_10": "null",
+        "deaths_MA_10": "null"
     }
 ]

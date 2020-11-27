@@ -1,5 +1,69 @@
 [
     {
+        "label": "Liechtenstein",
+        "value": "LI"
+    },
+    {
+        "label": "Greece",
+        "value": "EL"
+    },
+    {
+        "label": "Spain",
+        "value": "ES"
+    },
+    {
+        "label": "Slovenia",
+        "value": "SI"
+    },
+    {
+        "label": "Hungary",
+        "value": "HU"
+    },
+    {
+        "label": "Lithuania",
+        "value": "LT"
+    },
+    {
+        "label": "Luxembourg",
+        "value": "LU"
+    },
+    {
+        "label": "Bulgaria",
+        "value": "BG"
+    },
+    {
+        "label": "Croatia",
+        "value": "HR"
+    },
+    {
+        "label": "Armenia",
+        "value": "AM"
+    },
+    {
+        "label": "Serbia",
+        "value": "RS"
+    },
+    {
+        "label": "Cyprus",
+        "value": "CY"
+    },
+    {
+        "label": "Malta",
+        "value": "MT"
+    },
+    {
+        "label": "Czechia",
+        "value": "CZ"
+    },
+    {
+        "label": "Belgium",
+        "value": "BE"
+    },
+    {
+        "label": "Norway",
+        "value": "NO"
+    },
+    {
         "label": "Denmark",
         "value": "DK"
     },
@@ -12,135 +76,71 @@
         "value": "UK"
     },
     {
-        "label": "Croatia",
-        "value": "HR"
-    },
-    {
-        "label": "Hungary",
-        "value": "HU"
-    },
-    {
-        "label": "Iceland",
-        "value": "IS"
-    },
-    {
-        "label": "Slovakia",
-        "value": "SK"
-    },
-    {
-        "label": "Poland",
-        "value": "PL"
-    },
-    {
-        "label": "Bulgaria",
-        "value": "BG"
-    },
-    {
-        "label": "Greece",
-        "value": "EL"
-    },
-    {
-        "label": "Estonia",
-        "value": "EE"
-    },
-    {
-        "label": "Belgium",
-        "value": "BE"
-    },
-    {
-        "label": "Lithuania",
-        "value": "LT"
-    },
-    {
-        "label": "France",
-        "value": "FR"
-    },
-    {
-        "label": "Serbia",
-        "value": "RS"
-    },
-    {
-        "label": "Luxembourg",
-        "value": "LU"
-    },
-    {
-        "label": "Albania",
-        "value": "AL"
-    },
-    {
         "label": "Latvia",
         "value": "LV"
-    },
-    {
-        "label": "Germany",
-        "value": "DE"
-    },
-    {
-        "label": "Czechia",
-        "value": "CZ"
-    },
-    {
-        "label": "Austria",
-        "value": "AT"
-    },
-    {
-        "label": "Georgia",
-        "value": "GE"
-    },
-    {
-        "label": "Spain",
-        "value": "ES"
-    },
-    {
-        "label": "Armenia",
-        "value": "AM"
-    },
-    {
-        "label": "Liechtenstein",
-        "value": "LI"
-    },
-    {
-        "label": "Cyprus",
-        "value": "CY"
-    },
-    {
-        "label": "Slovenia",
-        "value": "SI"
-    },
-    {
-        "label": "Italy",
-        "value": "IT"
-    },
-    {
-        "label": "Romania",
-        "value": "RO"
-    },
-    {
-        "label": "Switzerland",
-        "value": "CH"
     },
     {
         "label": "Montenegro",
         "value": "ME"
     },
     {
-        "label": "Netherlands",
-        "value": "NL"
+        "label": "Austria",
+        "value": "AT"
+    },
+    {
+        "label": "Poland",
+        "value": "PL"
+    },
+    {
+        "label": "Romania",
+        "value": "RO"
+    },
+    {
+        "label": "Georgia",
+        "value": "GE"
+    },
+    {
+        "label": "Iceland",
+        "value": "IS"
+    },
+    {
+        "label": "France",
+        "value": "FR"
+    },
+    {
+        "label": "Switzerland",
+        "value": "CH"
+    },
+    {
+        "label": "Portugal",
+        "value": "PT"
+    },
+    {
+        "label": "Slovakia",
+        "value": "SK"
     },
     {
         "label": "Sweden",
         "value": "SE"
     },
     {
-        "label": "Norway",
-        "value": "NO"
+        "label": "Albania",
+        "value": "AL"
     },
     {
-        "label": "Malta",
-        "value": "MT"
+        "label": "Germany",
+        "value": "DE"
     },
     {
-        "label": "Portugal",
-        "value": "PT"
+        "label": "Estonia",
+        "value": "EE"
+    },
+    {
+        "label": "Netherlands",
+        "value": "NL"
+    },
+    {
+        "label": "Italy",
+        "value": "IT"
     }
 ]
