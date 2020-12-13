@@ -3,5 +3,5 @@
         "--ignore",
         "E501"
     ],
-    "python.pythonPath": "/home/gigi/.virtualenvs/euro_dea/bin/python"
+    "python.pythonPath": "/home/ghiga/.virtualenvs/euro_dea/bin/python"
 }

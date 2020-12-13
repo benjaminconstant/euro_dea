@@ -70,8 +70,6 @@ def generateJSON(df):
             deaths_per_million = round((value / pop) * 1000000, 2)
         else:
             deaths_per_million = np.nan
-        print(time)
-        print(geo)
         return deaths_per_million
 
     df['deaths_per_million'] = df.apply(lambda x: residents_fix(value=x['deaths'], time=x['time'], geo=x['geo']), axis=1)
