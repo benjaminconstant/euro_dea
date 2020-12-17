@@ -541,8 +541,8 @@
     },
     {
         "time": "2020",
-        "deaths": 485052.0,
-        "deaths_per_million": 5832.29,
+        "deaths": 485102.0,
+        "deaths_per_million": 5832.89,
         "deaths_per_million_MA_5": "null",
         "deaths_MA_5": "null",
         "deaths_per_million_MA_10": "null",

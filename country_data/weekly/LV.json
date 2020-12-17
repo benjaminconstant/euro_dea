@@ -9826,5 +9826,14 @@
         "deaths_MA_5": 585.0,
         "deaths_per_million_MA_10": 295.07,
         "deaths_MA_10": 562.9
+    },
+    {
+        "deaths": 666.0,
+        "time": "2020W50",
+        "deaths_per_million": 349.12,
+        "deaths_per_million_MA_5": 319.24,
+        "deaths_MA_5": 609.0,
+        "deaths_per_million_MA_10": 300.52,
+        "deaths_MA_10": 573.3
     }
 ]
